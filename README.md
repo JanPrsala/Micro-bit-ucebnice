@@ -1,5 +1,6 @@
 <h1>MICRO:BIT</h1>
 <p>Tento projekt je upravenou verzí učebnice <a href="https://imysleni.cz/ucebnice/robotika-ucebnice-pro-stredni-skoly-micro-bit">"Robotika: učebnice pro střední školy - Micro:Bit"</a> od pana doktora Jiřího Pecha a pana doktora Milana Nováka.</p>
+<p>Tento projekt je vytvářen pod licencí CC-BY-SA.</p>
 <p>Učebnice MicroBit je zaměřena na výuku programování vývojové desky Micro:Bit v blokovém prostředí MakeCode.</p>
 <h2>Obsah</h2>
 <ol>
